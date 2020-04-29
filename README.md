@@ -1,5 +1,5 @@
 # COVID-19 Tracker
-![COVID-19 Tracker](https://cdn-std.droplr.net/files/acc_1002067/OJ4Kaf)
+![COVID-19 Tracker](https://cdn-std.droplr.net/files/acc_1002067/YuCYaD)
 
 ### [Live Site](https://covid19-current-situation.netlify.app/)
 
